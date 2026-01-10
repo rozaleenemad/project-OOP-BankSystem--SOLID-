@@ -4,6 +4,9 @@ This project is a Bank Management System implemented using Java.
 It applies Object-Oriented Programming concepts and SOLID principles
 to simulate real banking operations.
 
+The system focuses on separation of responsibilities, flexibility
+and easy extensibility without modifying existing code
+
 ## Project Objectives
 - Apply OOP concepts in a real-world system
 - Implement SOLID principles
@@ -22,6 +25,9 @@ to simulate real banking operations.
 - Deposit, Withdraw, and Transfer operations
 - Interest calculation using Strategy Pattern
 - Account status management (Active, Frozen, Closed)
+- Multiple Loan types ( Personal Loan, Car Loan, Mortgage Loan)
+-  Multiple Card types (Debit Card, Credit Card)
+- Manages card status (Active, Blocked, Expired) 
 - Flexible account creation using Builder Pattern
 
 ## Project Structure
